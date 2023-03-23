@@ -1,6 +1,6 @@
 "# My-Projects" 
 
- #Paste it in pom.xml
+ # Paste it in pom.xml
 ``` bash
 <dependency>
 			<groupId>com.mysql</groupId>
