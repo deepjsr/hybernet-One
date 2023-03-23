@@ -1,7 +1,7 @@
 "# My-Projects" 
 
  # Paste it in pom.xml
-``` bash
+``` 
   <dependency>
   		<!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
 
@@ -51,6 +51,7 @@
 		</properties>
 	</persistence-unit>
    </persistence>
-   ```
-## To format in xml
-    **ctrl+shift+f** 
+   ``` 
+  ## To format in xml
+  **ctrl+shift+f**
+   
