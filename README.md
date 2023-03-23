@@ -15,8 +15,9 @@
 			<artifactId>hibernate-core</artifactId>
 			<version>5.6.14.Final</version>
   </dependency>
-  
-    # Create one folder  in **src/main/resource/** and paste it
+  ```
+     # Create one folder  in **src/main/resource/** and paste it
+     
     ```
     <persistence xmlns="http://xmlns.jcp.org/xml/ns/persistence"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -50,6 +51,6 @@
 		</properties>
 	</persistence-unit>
 </persistence>
-    
+   ```
     ## to format in xml
     **ctrl+shift+f** 
