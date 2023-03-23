@@ -16,9 +16,9 @@
 			<version>5.6.14.Final</version>
   </dependency>
   ```
-     # Create one folder  in **src/main/resource/** and paste it
+  # Create one folder  in **src/main/resource/** and paste it
      
-    ```
+    ``` bash
     <persistence xmlns="http://xmlns.jcp.org/xml/ns/persistence"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence
@@ -50,7 +50,7 @@
 			
 		</properties>
 	</persistence-unit>
-</persistence>
+   </persistence>
    ```
-    ## to format in xml
+## To format in xml
     **ctrl+shift+f** 
