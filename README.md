@@ -18,7 +18,7 @@
   ```
   # Create one folder  in **src/main/resource/** and paste it
      
-    ```
+   
   <persistence xmlns="http://xmlns.jcp.org/xml/ns/persistence"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence
@@ -52,6 +52,5 @@
 	</persistence-unit>
    </persistence>
    
-   ``` 
 
    
